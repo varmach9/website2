@@ -1,0 +1,115 @@
+.tc{
+    background-color: rgb(202, 236, 247);
+    padding-top: 100px;
+}
+
+
+.webs{
+    text-decoration: underline;
+}
+body{
+    margin: 0;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.skill-row{
+    width:50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+}
+h1{
+    color: #66BFBF;
+    margin: 10px auto 0 auto ;
+    font-size: 320%;
+    
+}
+h2{ 
+    color: #66BFBF;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #11999E;
+}
+.para{
+    color: #66BFBF;
+    font-size: 160%;
+}
+.bcl{
+    position: absolute;
+    left: 350px;
+    bottom: 300px;
+}
+.tcl{
+    position: absolute;
+    right:300px;
+    top:50px;
+}
+.ml{
+    margin-right: 30px;
+    float: left;
+}
+.web{
+    margin-left: 30px;
+    float: right;
+}
+hr{
+    border: dotted;
+    color: #E4F9F5;
+    width: 10%;
+    border-bottom: none;
+    margin: 40px auto;
+}
+.tree{
+    padding-top: 30px;
+}
+.intro{
+    width: 30%;
+    margin:auto;
+}
+p{
+    line-height: 30px;
+}
+.btn {
+    background: #cb34d9;
+    background-image: -webkit-linear-gradient(top, #cb34d9, #2980b9);
+    background-image: -moz-linear-gradient(top, #cb34d9, #2980b9);
+    background-image: -ms-linear-gradient(top, #cb34d9, #2980b9);
+    background-image: -o-linear-gradient(top, #cb34d9, #2980b9);
+    background-image: linear-gradient(to bottom, #cb34d9, #2980b9);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cfc69;
+    background-image: -webkit-linear-gradient(top, #3cfc69, #d9d934);
+    background-image: -moz-linear-gradient(top, #3cfc69, #d9d934);
+    background-image: -ms-linear-gradient(top, #3cfc69, #d9d934);
+    background-image: -o-linear-gradient(top, #3cfc69, #d9d934);
+    background-image: linear-gradient(to bottom, #3cfc69, #d9d934);
+    text-decoration: none;
+  }
+
+  .bc{
+      
+      margin-top: 20px;
+      padding-top: 20px;
+      background-color: #66BFBF;
+  }
+
+a{
+    text-decoration: none;
+    margin: 10px 20px;
+    color: aqua;
+}
+a:hover{
+    color:black
+}
